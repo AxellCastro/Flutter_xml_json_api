@@ -1,0 +1,32 @@
+<recetas>
+    <receta>
+        <nombre>Spaghetti Carbonara</nombre>
+        <ingredientes>Spaghetti, Huevo, Queso parmesano, Panceta</ingredientes>
+        <preparacion>Hervir los spaghetti y mezclar con una salsa hecha de huevo y queso parmesano. Añadir panceta crujiente.</preparacion>
+        <url>https://content-cocina.lecturas.com/medio/2023/05/10/espaguetis-a-la-carbonara_dd98718e_1200x1200.jpg</url>
+    </receta>
+    <receta>
+        <nombre>Ensalada César</nombre>
+        <ingredientes>Lechuga, Pechuga de pollo, Crutones, Salsa César</ingredientes>
+        <preparacion>Mezclar lechuga con pollo asado, crutones y salsa César.</preparacion>
+        <url>https://images.aws.nestle.recipes/resized/69e14ff7a1b1fea5d3976defa9d4903a_CPK_cesar_a-hero_1080_850.jpg</url>
+    </receta>
+    <receta>
+        <nombre>Crema de Calabaza</nombre>
+        <ingredientes>Calabaza, Cebolla, Caldo de verduras, Crema de leche</ingredientes>
+        <preparacion>Hervir calabaza y cebolla, luego licuar con caldo de verduras y añadir crema de leche.</preparacion>
+        <url>https://s3.abcstatics.com/media/gurmesevilla/2009/07/crema-de-calabaza.jpeg</url>
+    </receta>
+    <receta>
+        <nombre>Paella</nombre>
+        <ingredientes>Arroz, Mariscos, Pollo, Pimientos</ingredientes>
+        <preparacion>Preparar arroz con mariscos y pollo, añadiendo pimientos y especias.</preparacion>
+        <url>https://hips.hearstapps.com/hmg-prod/images/paella-valenciana-elle-gourmet-65cd30a24348c.jpg?crop=0.639xw:0.958xh;0.0343xw,0.0319xh&resize=1200:*</url>
+    </receta>
+    <receta>
+        <nombre>Pizza Margherita</nombre>
+        <ingredientes>Masa de pizza, Salsa de tomate, Queso mozzarella, Albahaca</ingredientes>
+        <preparacion>Extender masa de pizza, cubrir con salsa de tomate y queso mozzarella, luego hornear con hojas de albahaca.</preparacion>
+        <url>https://imag.bonviveur.com/pizza-margarita.jpg</url>
+    </receta>
+</recetas>

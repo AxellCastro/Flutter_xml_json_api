@@ -1,0 +1,38 @@
+[
+    {
+      "nombre": "Ensalada de Quinoa",
+      "ingredientes": "Quinoa, Tomate, Pepino, Aguacate, Limón",
+      "valorNutricional": "250 kcal por porción",
+      "descripcion": "Una ensalada ligera y nutritiva perfecta para comenzar el día.",
+      "imagen": "https://www.goya.com/media/4003/quinoa-salad.jpg?quality=80"
+    },
+    {
+      "nombre": "Ensalada César",
+      "ingredientes": "Lechuga, Pollo a la parrilla, Crutones, Salsa César",
+      "valorNutricional": "350 kcal por porción",
+      "descripcion": "Una clásica ensalada César con pollo, ideal para una comida completa.",
+      "imagen": "https://www.gourmet.cl/wp-content/uploads/2016/09/Ensalada_C%C3%A9sar-web-553x458.jpg"
+    },
+    {
+      "nombre": "Ensalada Mediterránea",
+      "ingredientes": "Tomate, Pepino, Aceitunas, Queso feta, Aceite de oliva",
+      "valorNutricional": "200 kcal por porción",
+      "descripcion": "Una ensalada refrescante con sabores mediterráneos.",
+      "imagen": "https://imag.bonviveur.com/ensalada-mediterranea.jpg"
+    },
+    {
+      "nombre": "Ensalada de Espinacas",
+      "ingredientes": "Espinacas, Nueces, Manzana, Queso de cabra, Vinagreta de miel",
+      "valorNutricional": "280 kcal por porción",
+      "descripcion": "Una ensalada de espinacas rica en nutrientes con un toque dulce.",
+      "imagen": "https://www.pequerecetas.com/wp-content/uploads/2022/07/ensalada-de-espinacas-con-salmon.jpg"
+    },
+    {
+      "nombre": "Ensalada de Frutas",
+      "ingredientes": "Fresas, Kiwis, Mangos, Yogur natural",
+      "valorNutricional": "180 kcal por porción",
+      "descripcion": "Una ensalada dulce y fresca con una variedad de frutas.",
+      "imagen": "https://www.bancodealimentoschicago.org/wp-content/uploads/2022/04/Fruit-Salad.jpg"
+    }
+  ]
+  

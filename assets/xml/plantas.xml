@@ -1,0 +1,32 @@
+<plantas>
+    <planta>
+        <nombre>Rosa</nombre>
+        <familia>Rosaceae</familia>
+        <descripcion>Las rosas son flores perennes que vienen en una variedad de colores y formas. Son conocidas por su fragancia y belleza.</descripcion>
+        <url>https://biblioteca.acropolis.org/wp-content/uploads/2019/07/Rosa-Mister_Lincoln.jpg</url>
+    </planta>
+    <planta>
+        <nombre>Orquídea</nombre>
+        <familia>Orchidaceae</familia>
+        <descripcion>Las orquídeas son plantas tropicales que producen flores exóticas en diversas formas y colores.</descripcion>
+        <url>https://verdecora.es/blog/wp-content/uploads/2016/12/tipos-orquideas-phalaenopsis.jpg</url>
+    </planta>
+    <planta>
+        <nombre>Cactus</nombre>
+        <familia>Cactaceae</familia>
+        <descripcion>Los cactus son plantas suculentas que tienen adaptaciones especiales para almacenar agua y sobrevivir en climas áridos.</descripcion>
+        <url>https://www.compo.de/dam/jcr:5e382c1a-8128-4670-9f96-a75044fe31b2/Kaktus%20Blumentopf.jpg?x=46&y=41</url>
+    </planta>
+    <planta>
+        <nombre>Hiedra</nombre>
+        <familia>Araliaceae</familia>
+        <descripcion>La hiedra es una planta trepadora que se puede cultivar tanto en interiores como en exteriores. Es conocida por su capacidad para cubrir superficies.</descripcion>
+        <url>https://imagenes.elpais.com/resizer/v2/O2V45V24OZFLPBKAF3J6WAI2OY.jpg?auth=7bb50a65625d2a6e1477393c65c409414a9f99876fab9c93526897e85847d872&width=1960&height=1470&smart=true</url>
+    </planta>
+    <planta>
+        <nombre>Fern</nombre>
+        <familia>Polypodiaceae</familia>
+        <descripcion>Los helechos son plantas no florales que se reproducen por esporas. Son comunes en ambientes húmedos y sombreados.</descripcion>
+        <url>https://cdn.britannica.com/21/6821-050-AE82E5BF/Bracken.jpg</url>
+    </planta>
+</plantas>

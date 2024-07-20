@@ -1,0 +1,32 @@
+<comida>
+    <plato>
+        <nombre>Hamburguesa</nombre>
+        <ingredientes>Carne de res, Pan de hamburguesa, Lechuga, Tomate, Queso, Cebolla</ingredientes>
+        <preparacion>Asar la carne y colocarla en el pan con los demás ingredientes. Servir con acompañamientos.</preparacion>
+        <url>https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/4e4293857c03d819e4ae51de1e86d66a.jpg</url>
+    </plato>
+    <plato>
+        <nombre>Enchiladas</nombre>
+        <ingredientes>Tortillas de maíz, Carne de res, Salsa de enchilada, Queso, Cebolla</ingredientes>
+        <preparacion>Envolver carne en tortillas, cubrir con salsa y queso, luego hornear hasta que el queso se derrita.</preparacion>
+        <url>https://www.gourmet.cl/wp-content/uploads/2021/08/foto-istock-enchilada-tama%C3%B1o-web.jpg</url>
+    </plato>
+    <plato>
+        <nombre>Tacos</nombre>
+        <ingredientes>Tortillas de maíz, Carne de cerdo, Salsa, Lechuga, Tomate, Queso</ingredientes>
+        <preparacion>Rellenar tortillas con carne y agregar salsa, lechuga, tomate y queso al gusto.</preparacion>
+        <url>https://www.pequerecetas.com/wp-content/uploads/2020/10/tacos-mexicanos-800x577.jpg</url>
+    </plato>
+    <plato>
+        <nombre>Sushi</nombre>
+        <ingredientes>Arroz para sushi, Algas nori, Pescado crudo, Verduras, Vinagre de arroz</ingredientes>
+        <preparacion>Enrollar el arroz con el pescado y verduras en algas nori. Cortar en porciones y servir con salsa de soja.</preparacion>
+        <url>https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0749D9BC-260D-40F4-A07F-54814C4A82B4/Derivates/A73A7793-F3EE-4B90-ABA4-1CC1A0C3E18F.jpg</url>
+    </plato>
+    <plato>
+        <nombre>Pasta Alfredo</nombre>
+        <ingredientes>Pasta, Crema de leche, Queso parmesano, Mantequilla, Ajo</ingredientes>
+        <preparacion>Cocinar la pasta y mezclar con una salsa cremosa hecha de crema, queso parmesano y mantequilla.</preparacion>
+        <url>https://peopleenespanol.com/thmb/xv-XKxUO3fRnBnsM7E6tdSigSLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pasta-alfredo.jpg-2000-69428c009d434a03848151670738a5bc.jpg</url>
+    </plato>
+</comida>
